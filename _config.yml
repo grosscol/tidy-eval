@@ -1,7 +1,7 @@
 timezone:    America/Detroit
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
-baseurl:     "/erb-demo"
+baseurl:     "/tidy-eval"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
@@ -14,9 +14,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 ## personalize your slide show
-title:       Ruby Templating
+title:       Tidy Evaluation
 author:      Colin A. Gross
-description: Brief demo of templating with Ruby
+description: Brief talk about Tidy Evaluation
 
 sass:
   style:     :compressed
