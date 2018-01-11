@@ -3,4 +3,11 @@
 # only Main files contain this front matter, not partials.
 ---
 
-@import "solarized/solarized.scss";
+@import "modified/modified.scss";
+
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
